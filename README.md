@@ -1,0 +1,1 @@
+- Here i have created a Sign-Up page using nodeJS where it takes the data submitted by the user and stores it in a js file.
